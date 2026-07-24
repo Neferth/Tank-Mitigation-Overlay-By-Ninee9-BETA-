@@ -1,0 +1,5 @@
+C:\Users\flori\Desktop\TankMitigationOverlay\TankMitigationOverlay\TankMitigationOverlay\obj\x64\Debug\net9.0-windows\TankMitigationOverlay.csproj.AssemblyReference.cache
+C:\Users\flori\Desktop\TankMitigationOverlay\TankMitigationOverlay\TankMitigationOverlay\obj\x64\Debug\net9.0-windows\TankMitigationOverlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\Desktop\TankMitigationOverlay\TankMitigationOverlay\TankMitigationOverlay\obj\x64\Debug\net9.0-windows\TankMitigationOverlay.AssemblyInfoInputs.cache
+C:\Users\flori\Desktop\TankMitigationOverlay\TankMitigationOverlay\TankMitigationOverlay\obj\x64\Debug\net9.0-windows\TankMitigationOverlay.AssemblyInfo.cs
+C:\Users\flori\Desktop\TankMitigationOverlay\TankMitigationOverlay\TankMitigationOverlay\obj\x64\Debug\net9.0-windows\TankMitigationOverlay.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z3BlIsfTXL4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\flori\\Desktop\\TankMitigationOverlay\\TankMitigationOverlay\\TankMitigationOverlay\\TankMitigationOverlay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flori\\.nuget\\packages\\dalamudpackager\\11.0.0\\dalamudpackager.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

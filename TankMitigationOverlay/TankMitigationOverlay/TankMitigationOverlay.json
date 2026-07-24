@@ -1,0 +1,12 @@
+{
+  "Author": "Ninee Ix",
+  "Name": "Tank Mitigation Overlay [BETA]",
+  "Punchline": "Real-time overlay to track tank mitigations.",
+  "Description": "A lightweight overlay that calculates your damage mitigation in real time, as a percentage.",
+  "Tags": [
+    "tank",
+    "overlay",
+    "mitigation"
+  ],
+  "DalamudApiLevel": 15
+}
