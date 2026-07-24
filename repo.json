@@ -7,8 +7,8 @@
     "Description": "Un overlay de suivi des mitigations pour FFXIV.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Neeferth/Tank-Mitigation-Overlay-ByNinee9-BETA",
-    "DownloadLinkInstall": "https://github.com/Neferth/Tank-Mitigation-Overlay-By-Ninee9-BETA-/releases/download/tmo/TankMitigationOverlay.7z",
-    "DownloadLinkUpdate": "https://github.com/Neferth/Tank-Mitigation-Overlay-By-Ninee9-BETA-/releases/download/tmo/TankMitigationOverlay.7z",
-    "DownloadLinkTesting": "https://github.com/Neferth/Tank-Mitigation-Overlay-By-Ninee9-BETA-/releases/download/tmo/TankMitigationOverlay.7z"
+    "DownloadLinkInstall": "https://github.com/Neferth/Tank-Mitigation-Overlay-By-Ninee9-BETA-/releases/download/tmo/TankMitigationOverlay.zip",
+    "DownloadLinkUpdate": "https://github.com/Neferth/Tank-Mitigation-Overlay-By-Ninee9-BETA-/releases/download/tmo/TankMitigationOverlay.zip",
+    "DownloadLinkTesting": "https://github.com/Neferth/Tank-Mitigation-Overlay-By-Ninee9-BETA-/releases/download/tmo/TankMitigationOverlay.zip"
   }
 ]
